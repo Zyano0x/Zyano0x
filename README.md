@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zyano0
+- 👋 Hi, I’m @Zyano
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Reserve Engineering
 - 💞️ I’m looking to collaborate on ...
