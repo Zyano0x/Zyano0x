@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zyano0
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning reserve engineering
+- 👀 I’m interested in Hacking
+- 🌱 I’m currently learning Reserve Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
