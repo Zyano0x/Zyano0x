@@ -1,6 +1,7 @@
 <!--Banner-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+NL&pause=1000&color=F738F3&random=false&width=435&lines=Backend+Developer;Software+Engineering+Student;Always+learning+new+things)](https://git.io/typing-svg)
-
+<p align="center">
+	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+NL&pause=1000&color=F738F3&random=false&width=435&lines=Backend+Developer;Software+Engineering+Student;Always+learning+new+things)] (https://git.io/typing-svg)
+</p>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
