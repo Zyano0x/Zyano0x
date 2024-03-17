@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+NL&pause=1000&color=F738F3&random=false&width=435&lines=Backend+Developer;Software+Engineering+Student;Always+learning+new+things)] (https://git.io/typing-svg)
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+NL&pause=1000&color=F738F3&random=false&width=435&lines=Backend+Developer;Software+Engineering+Student;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <!--Night Owl image-->
 <div>
