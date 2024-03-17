@@ -41,7 +41,7 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Github Trophies 🏆</h2>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Zyano0x/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Zyano0x&theme=onedark" alt="Github Trophy">
   </a>
 </div>
