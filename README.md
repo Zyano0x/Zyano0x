@@ -42,7 +42,7 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Github Trophies 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
+  <a href="https://github.com/Zyano0x/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
@@ -104,7 +104,9 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+        <img src="https://readme-daily-quotes.vercel.app/api" alt="Github Readme Daily Quotes">
+    </a>
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
@@ -113,21 +115,21 @@
 
 <h2 align="center">🤝 Connect With Me 🤝 </h2>
 <div align="center">
- <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+	<a href="" target="_blank">
+		<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+	</a>
   
-<a href="mailto:nthoai305@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
-</a>
+	<a href="mailto:nthoai305@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+	</a>
 
-<a href="https://www.instagram.com/zyano0x" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
+	<a href="https://www.instagram.com/zyano0x" target="_blank">
+		<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+	</a>
 
-<a href="$" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
+	<a href="" target="_blank">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+	</a>
 </div>
 
 <!--Footer--> 
