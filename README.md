@@ -34,7 +34,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages And Tools</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,html,css,mongo,mysql,git,vscode,docker,postman&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=cpp,java,springboot,js,react,nodejs,express,html,css,mongo,mysql,git,vscode,docker,postman&perline=10"  />
 </p>
 <br />
 
