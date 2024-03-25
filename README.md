@@ -13,7 +13,7 @@
 <br /> 
 
 <!--Start Intro-->
-<p align="left">I am a Software Engineering student with a passion for Full Stack Development. I specialize in Spring Boot (Java), React.js, Node.js, REST API, and C++.</p>
+<p align="left">I am a Software Engineering student with a passion for Full Stack Development. I specialize in Spring Boot (Java), Javascript, Node.js, REST API, and C++.</p>
 
 - ✨ Constantly learning and evolving.
 - 🌱 Currently expanding my skills and knowledge base.
