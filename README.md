@@ -71,11 +71,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Latest Project</strong></h3>
+      <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="#">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyano0x)](https://github.com/anuraghazra/github-readme-stats)
-" alt="Top Langs" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyano0x" alt="Top Langs" />
         </a>
       </p>
     </td>
