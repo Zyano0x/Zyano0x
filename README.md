@@ -56,7 +56,7 @@
       <h3 align="center"><strong>Github Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Zyano0x">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zyano0x&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=Zyano0x&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -64,7 +64,7 @@
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Zyano0x">
-          <img align="center" src="https://streak-stats.demolab.com?user=Zyano0x&theme=nightowl" alt="Streak Stats" />
+          <img align="center" height="auto" src="https://streak-stats.demolab.com?user=Zyano0x&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -74,7 +74,7 @@
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="#">
-          <img align="center" width="fit-content" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyano0x&hide_progress=true&theme=nightowl" alt="Top Langs" />
+          <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyano0x&hide_progress=true&theme=nightowl" alt="Top Langs" />
         </a>
       </p>
     </td>
