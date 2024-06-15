@@ -18,7 +18,7 @@
 - 🚀 Eagerly embracing continuous learning and growth.
 - 🌿 Diving deeper into the tech landscape to broaden my expertise.
 - 💻 Actively engaging with the Open Source community.
-- 🎨 Passionate about crafting user-centric and aesthetically pleasing UI/UX designs.
+- 🎨 Enthusiastic about crafting visually appealing UI/UX designs.
 - 📖 Avid reader exploring the synergy between technology and narrative.
 - 🔗 Driven by the potential of technology to drive societal progress, I aim to contribute to meaningful projects with real-world impact.
 <!--End Intro-->
@@ -73,8 +73,9 @@
     <td width="50%">
       <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
-        <a href="[https://github.com/Zyano0x/Trip-Planner](https://github.com/Zyano0x/Trip-Planner)">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyano0x&repo=trip-planner&theme=nightowl&show_owner=true" alt="Trip Planner Project" />
+        <a href="#">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyano0x)](https://github.com/anuraghazra/github-readme-stats)
+" alt="Top Langs" />
         </a>
       </p>
     </td>
