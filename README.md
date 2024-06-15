@@ -71,18 +71,18 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Top Languages</strong></h3>
-      <p align="center">
-        <a href="#">
-          <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyano0x&hide_progress=true&theme=nightowl" alt="Top Langs" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/Zyano0x">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Zyano0x&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Top Languages</strong></h3>
+      <p align="center">
+        <a href="#">
+          <img align="center" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyano0x&hide_progress=true&theme=nightowl" alt="Top Langs" />
         </a>
       </p>
     </td>
