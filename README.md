@@ -73,8 +73,8 @@
     <td width="50%">
       <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
-        <a href="https://github.com/Zyano0x/Tour_Booking">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyano0x&repo=tour_booking&theme=nightowl&show_owner=true" alt="Tour Booking Project" />
+        <a href="[https://github.com/Zyano0x/Tour_Booking](https://github.com/Zyano0x/Trip-Planner)">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyano0x&repo=tour_booking&theme=nightowl&show_owner=true" alt="Trip Planner Project" />
         </a>
       </p>
     </td>
@@ -134,7 +134,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-------
-
-Credit: [Kiran1689](https://github.com/Kiran1689)
