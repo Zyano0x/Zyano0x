@@ -35,6 +35,7 @@
 <h2 align="center">Languages And Tools</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,java,nodejs,react,spring,express,reactnative,mongodb,mysql&perline=3"  />
+[![My Skills](https://skillicons.dev/icons?i=s,html,css,java,nodejs,react,spring,express,reactnative,mongodb,mysql&perline=3)](https://skillicons.dev)
 </p>
 <br />
 
