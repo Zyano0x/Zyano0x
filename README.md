@@ -13,14 +13,14 @@
 <br /> 
 
 <!--Start Intro-->
-<p align="left">I am a Software Engineering student with a passion for Full Stack Development. I specialize in Spring Boot (Java), Javascript, Node.js, REST API, and C++.</p>
+<p align="left">Software Engineering and Full Stack Development enthusiast. Proficient in Spring Boot (Java), JS, Node.js, React</p>
 
-- ✨ Constantly learning and evolving.
-- 🌱 Currently expanding my skills and knowledge base.
-- ❤ Contributing to Open Source projects.
-- 🎨 I have a keen interest in UI/UX design and strive to create intuitive and visually appealing interfaces.
-- 📚 Outside of coding, I enjoy exploring literature and finding connections between technology and storytelling.
-- 🌍 I'm fascinated by the intersection of technology and social impact, seeking opportunities to contribute to projects that make a difference in people's lives.
+- 🚀 Eagerly embracing continuous learning and growth.
+- 🌿 Diving deeper into the tech landscape to broaden my expertise.
+- 💻 Actively engaging with the Open Source community.
+- 🎨 Passionate about crafting user-centric and aesthetically pleasing UI/UX designs.
+- 📖 Avid reader exploring the synergy between technology and narrative.
+- 🔗 Driven by the potential of technology to drive societal progress, I aim to contribute to meaningful projects with real-world impact.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -34,7 +34,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages And Tools</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=cpp,java,spring,js,nodejs,express,mongo,mysql,git,vscode,docker,postman&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,java,nodejs,react,spring,express,reactnative,mongodb,mysql&perline=3"  />
 </p>
 <br />
 
