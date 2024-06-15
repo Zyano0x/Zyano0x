@@ -64,7 +64,7 @@
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Zyano0x">
-          <img align="center" width="370px" src="https://streak-stats.demolab.com?user=Zyano0x&theme=nightowl" alt="Streak Stats" />
+          <img align="center" width="fit-content" src="https://streak-stats.demolab.com?user=Zyano0x&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
