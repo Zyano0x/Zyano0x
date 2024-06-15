@@ -74,7 +74,7 @@
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="#">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyano0x&langs_count=3&theme=nightowl&show_owner=true" alt="Top Langs" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyano0x&theme=nightowl&layout=compact" alt="Top Langs" />
         </a>
       </p>
     </td>
