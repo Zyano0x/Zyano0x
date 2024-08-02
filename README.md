@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Zyano0x?label=Follow&style=social)
 
 ```javascript
-const anmol = {
+const zyano = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java", "React"],
     askMeAbout: ["web dev", "Tech", "App dev"],
