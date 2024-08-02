@@ -2,6 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ![GitHub followers](https://img.shields.io/github/followers/Zyano0x?label=Follow&style=social)
+[![Update Graph](https://github.com/Zyano0x/Zyano0x/actions/workflows/Graph.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/Zyano0x/Zyano0x/actions/workflows/Graph.yml)
 
 ```javascript
 const zyano = {
