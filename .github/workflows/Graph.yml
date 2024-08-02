@@ -11,9 +11,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - run: echo "🎉 Workflow triggered by schedule: ${{ github.event.schedule }}"
-      - run: echo "🐧 Running on: ${{ runner.os }}"
-      - run: echo "🔍 Repository: ${{ github.repository }}"
+      - run: echo "🎉 Workflow triggered schedule on ${{ github.event.schedule }}"
+      - run: echo "🐧 Running on ${{ runner.os }}"
+      - run: echo "🔍 Repository ${{ github.repository }}"
 
       - name: Run Graph.sh Script
         run: |
@@ -23,4 +23,4 @@ jobs:
       - run: echo "📂 List of files in the repository:"
       - run: ls -la
 
-      - run: echo "✅ Job status: ${{ job.status }}"
+      - run: echo "✅ Job status ${{ job.status }}"
