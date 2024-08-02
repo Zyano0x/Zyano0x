@@ -1,4 +1,4 @@
-go get -u https://github.com/Zyano0x/Prometheus-Ascii
+go get -u github.com/MacroPower/prometheus_ascii
 
 # Set PROMETHEUS_ASCII_SERVER_ENDPOINT
 
