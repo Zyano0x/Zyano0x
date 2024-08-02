@@ -11,8 +11,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - run: echo "🎉 Workflow triggered by schedule: $(date)"
-      - run: echo "🐧 Running on: $(uname -a)"
+      - run: echo "🎉 Workflow triggered by schedule: ${{ github.event.schedule }}"
+      - run: echo "🐧 Running on: ${{ runner.os }}"
       - run: echo "🔍 Repository: ${{ github.repository }}"
 
       - name: Run Graph.sh Script
