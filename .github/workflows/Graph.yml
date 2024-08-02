@@ -9,7 +9,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - run: echo "🎉 Workflow triggered by schedule: $(date)"
+      - run: echo "🐧 Running on: $(uname -a)"
+      - run: echo "🔍 Repository: ${{ github.repository }}"
 
       - name: Run Graph.sh Script
-        run: ./Graph.sh
+        run: |
+          chmod +x ./Graph.sh  # Ensure the script is executable
+          ./Graph.sh
+          
+      - run: echo "📂 List of files in the repository:"
+      - run: ls -la
+
+      - run: echo "✅ Job status: ${{ job.status }}"
