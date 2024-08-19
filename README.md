@@ -17,7 +17,7 @@ const zyano = {
         },
         databases: ["Mongo", "MySql", "MSSQL"],
     },
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Learning new things",
 };
 ```
 <picture>
