@@ -6,14 +6,17 @@
 ```javascript
 const zyano = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "React"],
-    askMeAbout: ["web dev", "Tech", "App dev"],
+    code: ["Javascript", "Java"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node.js", "Express"],
+        },
+        frontEnd: {
+            js: ["React"],
         },
         mobileApp: {
-            native: ["React native"]
+            native: ["React Native"]
         },
         databases: ["Mongo", "MySql", "MSSQL"],
     },
