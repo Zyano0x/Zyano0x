@@ -10,15 +10,15 @@ const zyano = {
     askMeAbout: ["Web Dev", "Tech", "App Dev"],
     technologies: {
         backEnd: {
-            js: ["Node.js", "Express"],
+            js: ["Node.js", "ExpressJS"],
         },
         frontEnd: {
             js: ["React"],
         },
         mobileApp: {
-            native: ["React Native"]
+            native: ["---"]
         },
-        databases: ["Mongo", "MySql", "MSSQL"],
+        databases: ["MongoDB", "MySql"],
     },
     currentFocus: "Learning new things",
 };
