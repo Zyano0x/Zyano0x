@@ -6,7 +6,7 @@
 ```javascript
 const zyano = {
     pronouns: "He" | "Him",
-    code: ["Java", "JavaScript", "TypeScript"],
+    code: ["Java", "JavaScript", "TypeScript", "HTML/CSS"],
     askMeAbout: ["Web Dev", "Tech", "App Dev"],
     technologies: {
         backEnd: {
