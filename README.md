@@ -18,7 +18,7 @@ const zyano = {
         mobileApp: {
             native: ["---"]
         },
-        databases: ["MongoDB", "MySql"],
+        databases: ["MongoDB", "PostgreSQL"],
     },
     currentFocus: "Learning new things",
 };
