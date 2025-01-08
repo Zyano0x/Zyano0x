@@ -9,14 +9,14 @@ const zyano = {
     code: ["Java", "JavaScript", "TypeScript", "HTML/CSS"],
     askMeAbout: ["Web Dev", "Tech", "App Dev"],
     technologies: {
-        backEnd: {
-            js: ["Node.js", "ExpressJS"],
+        backend: {
+            fw: ["Node.js", "ExpressJS"],
         },
-        frontEnd: {
-            js: ["React"],
+        frontend: {
+            fw: ["React", "Next.js"],
         },
         mobileApp: {
-            native: ["---"]
+            fw: ["---"]
         },
         databases: ["MongoDB", "PostgreSQL"],
     },
