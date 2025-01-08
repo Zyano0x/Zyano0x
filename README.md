@@ -10,7 +10,7 @@ const zyano = {
     askMeAbout: ["Web Dev", "Tech", "App Dev"],
     technologies: {
         backend: {
-            fw: ["Node.js", "ExpressJS"],
+            fw: ["Node.js", "Express.js"],
         },
         frontend: {
             fw: ["React", "Next.js"],
