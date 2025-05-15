@@ -6,11 +6,11 @@
 ```javascript
 const zyano = {
     pronouns: "He" | "Him",
-    code: ["Java", "JavaScript", "TypeScript", "HTML/CSS"],
+    code: ["C++", "Java", "JavaScript", "TypeScript", "HTML/CSS"],
     askMeAbout: ["Web Dev", "Tech", "App Dev"],
     technologies: {
         backend: {
-            fw: ["Node.js", "Express.js"],
+            fw: ["Node.js", "Express.js", "NestJS"],
         },
         frontend: {
             fw: ["React", "Next.js"],
