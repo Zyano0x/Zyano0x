@@ -1,30 +1,53 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Zyano! <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- README.md -->
+<h1 align="center">Hi 👋, I’m Zyano0x</h1>
+<p align="center">
+  <b>Software Developer</b><br/>
+  Passionate about reverse engineering, operating systems, and exploring how things work under the hood.
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/Zyano0x?label=Follow&style=social)
+---
 
-```javascript
-const zyano = {
-    pronouns: "He" | "Him",
-    code: ["C++", "JavaScript", "TypeScript", "HTML/CSS"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev"],
-    technologies: {
-        backend: {
-            fw: ["Node.js", "Express.js", "NestJS"],
-        },
-        frontend: {
-            fw: ["React", "Next.js"],
-        },
-        mobileApp: {
-            fw: ["---"]
-        },
-        databases: ["MongoDB", "PostgreSQL"],
-    },
-    currentFocus: "Learning new things",
-};
-```
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zyano0x/Zyano0x/snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zyano0x/Zyano0x/snake/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Zyano0x/Zyano0x/snake/github-snake.svg" />
-</picture>
+### 🧩 GitHub Metrics
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Zyano0x/Zyano0x/metrics/metrics.classic.svg" width="450" alt="Classic Metrics" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Zyano0x/Zyano0x/metrics/metrics.plugin.isocalendar.fullyear.svg" width="450" alt="Full-Year Calendar Metrics" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Zyano0x/Zyano0x/metrics/metrics.plugin.languages.indepth.svg" width="450" alt="Languages In-Depth Metrics" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Zyano0x/Zyano0x/metrics/metrics.plugin.rss.svg" width="450" alt="Hacker News RSS Feed" />
+        <br/>
+        <sub><i>📰 Latest from Hacker News</i></sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🧬 Deep into **C++**, **Windows Internals**, **Reverse Engineering**  
+- 🌐 Also building full-stack web apps with **React / Next.js**, **Node.js / NestJS**, **JavaScript / TypeScript**  
+- 🧩 Fascinated by virtualization, hypervisors, OS architecture  
+- 🎯 Solving algorithmic problems (LeetCode, system design, optimization)
+
+---
+
+### 📫 Let’s Connect
+
+- 🌍 Website: [https://zyano.dev](https://zyano.dev)  
+- 📧 Email: nthoai305@gmail.com  
+- 💼 GitHub: [@Zyano0x](https://github.com/Zyano0x)  
+
+---
+
+⭐ *“Dive into the system, understand the architecture, build something meaningful.”*
