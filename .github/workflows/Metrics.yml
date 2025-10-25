@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: 
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -8,22 +8,26 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Metrics embed
-        uses: lowlighter/metrics@v3.34
-        
+      - name: Generate Classic Metrics
+        uses: lowlighter/metrics@latest
         with:
-
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Xuất ra nhánh riêng "metrics"
+          committer_branch: metrics
+          committer_message: "chore: update metrics [skip ci]"
 
           filename: metrics.classic.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
 
-      - name: Generate isocalendar (full year)
+      - name: Generate Isocalendar (Full Year)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          committer_branch: metrics
+          committer_message: "chore: update metrics [skip ci]"
 
           filename: metrics.plugin.isocalendar.fullyear.svg
           base: ""
@@ -31,10 +35,13 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Ho_Chi_Minh
 
-      - name: Generate languages in-depth
+      - name: Generate Languages In-Depth
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          committer_branch: metrics
+          committer_message: "chore: update metrics [skip ci]"
 
           filename: metrics.plugin.languages.indepth.svg
           base: ""
@@ -46,4 +53,19 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used, recently-used
           plugin_languages_analysis_timeout: 15
+          config_timezone: Asia/Ho_Chi_Minh
+
+      - name: Generate Topics (Icons)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          committer_branch: metrics
+          committer_message: "chore: update metrics [skip ci]"
+
+          filename: metrics.plugin.topics.icons.svg
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
           config_timezone: Asia/Ho_Chi_Minh
