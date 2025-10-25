@@ -66,6 +66,6 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 30
+          plugin_activity_days: 14
           plugin_activity_filter: all
           config_timezone: Asia/Ho_Chi_Minh
