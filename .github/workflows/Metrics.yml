@@ -51,16 +51,16 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_analysis_timeout: 15
 
-      - name: Generate Activity (Commits)
+      - name: Generate RSS Feed (Hacker News)
         uses: lowlighter/metrics@latest
         with:
           committer_branch: metrics
           committer_message: "chore: update metrics [skip ci]"
 
-          filename: metrics.plugin.activity.svg
+          filename: metrics.plugin.rss.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_rss: yes
+          plugin_rss_source: https://hnrss.org/newest
+          plugin_rss_limit: 5
+          config_timezone: Asia/Ho_Chi_Minh
