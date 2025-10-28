@@ -1,5 +1,5 @@
 <!-- README.md -->
-<h1 align="center">Hi 👋, I’m Zyano0x</h1>
+<h1 align="center">Hi 👋, I’m Zyano</h1>
 <p align="center">
   <b>Software Developer</b><br/>
   Passionate about reverse engineering, operating systems, and exploring how things work under the hood.
